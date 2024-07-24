@@ -2,11 +2,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
 
-  image: {
-    inject: true,
-    format: ['webp'],
-  },
-
   postcss: {
     plugins: {
       'postcss-import': {},
