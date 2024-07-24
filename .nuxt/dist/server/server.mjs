@@ -1,0 +1,1 @@
+export { default } from "file:///Users/gabrielstroligo/Sites/localhost/css-houdini-squircle-nuxt-taiwlind/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
